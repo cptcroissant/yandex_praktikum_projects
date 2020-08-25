@@ -4,6 +4,7 @@
   
 | Тема проекта | Название проекта | Описание | Инструменты |
 | --- | --- | --- | --- |
+| [Graduation Project](https://github.com/cptcroissant/yandex_praktikum_projects/tree/master/Graduation%20Project) | Снижение энергозатрат сталеплавильного завода | Проанализировать данные и построить модель для предсказания финальной температуры плавки металла. Найти пути снижения энергозатрат. | pandas, numpy, seaborn, sklearn, catboost, EDA, feature engineering |
 | [Computer Vision](https://github.com/cptcroissant/yandex_praktikum_projects/tree/master/Computer%20Vision) | Опредедение возраста человека по фотографии | Построить CNN модель для определения возраста покупателя на кассе крупного гипермаркета | keras, seaborn, pandas |
 | [Exploratory Data Analysis](https://github.com/cptcroissant/yandex_praktikum_projects/tree/master/Exploratory%20Data%20Analysis) | Исследование объявлений о продаже квартир в СПб | Выявить закономерности влияния параметров объекта недвижимости на его рыночную стоимость | pandas, matplotlib, seaborn |  
 | [Gradient Boosting](https://github.com/cptcroissant/yandex_praktikum_projects/tree/master/Gradient%20Boosting) | Определение цены автомобиля для онлайн продажи | Создать модель градиентного бустинга с максимальной точностью и минимальным временем обучения и предсказания цены. Увеличить количество клиентов быстрой и точной работой сервиса | pandas, sklearn, LigtGBM, XGBoost, CatBoost |  
